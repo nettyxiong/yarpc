@@ -1,7 +1,7 @@
 .settings
 .project
 .idea
-**/*.iml
+**/*.iml/
 **/.settings
 **/.classpath
 **/.eclipse
@@ -10,3 +10,5 @@
 **/bin
 MANIFEST.MF
 /.DS_Store
+*.log
+*.log.1
